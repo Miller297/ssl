@@ -29,7 +29,6 @@ int main(void) {
 		}
 	}
 
-	if (top == 0) printf("yes\n"); else printf("no\n");
-	return 0;
+
 }
 
